@@ -1,0 +1,11 @@
+.hobbies{
+    margin-top: 1rem;
+    gap: 15px;
+    padding: 0 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.ol{
+    margin-left: 2rem;
+}
